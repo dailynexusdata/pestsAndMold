@@ -1,0 +1,15 @@
+{
+  "name": "pre-processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdftocsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
